@@ -15,6 +15,7 @@ dependencies = [
     "langchain-community>=0.4.2",
     "langchain-google-genai>=4.4.0",
     "langchain-groq>=1.1.3",
+    "pandas>=3.0.5",
     "pypdf>=6.18.0",
     "python-dotenv>=1.2.3",
     "sentence-transformers>=6.0.1",
@@ -27,3 +28,6 @@ langchain-by-krish-naik = "langchain_by_krish_naik:main"
 [build-system]
 requires = ["uv_build>=0.12.12,<0.13.0"]
 build-backend = "uv_build"
+
+[tool.uv]
+package = false
