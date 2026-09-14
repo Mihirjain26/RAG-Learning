@@ -15,3 +15,5 @@ pdfminer
 python-docx
 docx2txt
 ipywidgets
+openpyxl
+msoffcrypto-tool
