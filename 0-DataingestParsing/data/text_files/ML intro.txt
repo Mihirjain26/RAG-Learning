@@ -1,0 +1,21 @@
+**Machine Learning (ML)** is a branch of artificial intelligence where algorithms learn patterns directly from data to make decisions or predictions, rather than relying on hand-crafted, rule-based programming.
+
+In classical programming, an engineer writes explicit rules applied to data to yield an answer. In machine learning, algorithms process data alongside expected answers to infer the mathematical rules on their own.
+
+---
+
+### Three Primary Paradigms
+
+* **Supervised Learning:** The model trains on labeled input-output pairs. Its objective is to learn a mapping function so it can accurately predict labels for new, unseen data. Common examples include spam filtering, credit risk scoring, and regression tasks like price forecasting. Typical algorithms include Linear/Logistic Regression, Random Forests, and XGBoost.
+* **Unsupervised Learning:** The model receives unlabeled data and uncovers latent structures, distributions, or groupings independently. Common examples include customer segmentation, fraud anomaly detection, and data compression. Typical algorithms include K-Means, DBSCAN, and Principal Component Analysis (PCA).
+* **Reinforcement Learning:** An autonomous agent learns optimal behavior through trial and error by interacting with an environment. It receives positive rewards for desirable actions and penalties for suboptimal ones, aiming to maximize cumulative reward. Common examples include robotic control, game playing (chess, Go), and recommendation policy optimization.
+
+---
+
+### The Standard Machine Learning Workflow
+
+1. **Data Collection & Cleaning:** Ingesting raw data, handling missing values, and removing noise.
+2. **Feature Engineering:** Normalizing scales, encoding categorical variables, and isolating high-signal attributes.
+3. **Model Selection & Training:** Optimizing model parameters by minimizing a chosen loss function on the training dataset.
+4. **Validation & Evaluation:** Measuring generalization capability on an unseen test set using metrics like Accuracy, F1-Score, or Mean Squared Error (MSE).
+5. **Deployment & Monitoring:** Serving the model via an API endpoint and monitoring for concept drift over time.

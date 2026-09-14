@@ -1,0 +1,9 @@
+Python is a popular programming language known for being clear and easy to read, almost like writing plain English.
+
+Instead of getting bogged down by complicated syntax, punctuation, or complex setup rules, it lets you solve problems with fewer lines of code. It runs your instructions directly line by line, making it fast to test ideas and fix mistakes.
+
+Because of its simplicity and vast collection of free tools, it is widely used for:
+
+* **Artificial Intelligence & Data Science:** Analyzing numbers and building machine learning models.
+* **Web Development:** Powering the back-end logic of websites and web apps.
+* **Automation:** Writing small scripts to take care of repetitive daily tasks.
