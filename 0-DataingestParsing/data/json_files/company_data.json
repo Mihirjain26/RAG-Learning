@@ -1,0 +1,85 @@
+{
+  "company": "TechCorp",
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "role": "Software Engineer",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "React"
+      ],
+      "projects": [
+        {
+          "name": "RAG System",
+          "status": "In Progress"
+        },
+        {
+          "name": "Data Pipeline",
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "role": "Machine Learning Engineer",
+      "skills": [
+        "Python",
+        "PyTorch",
+        "Hugging Face"
+      ],
+      "projects": [
+        {
+          "name": "Fine-Tuning LLM",
+          "status": "In Progress"
+        },
+        {
+          "name": "Semantic Search",
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "role": "DevOps Engineer",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "projects": [
+        {
+          "name": "CI/CD Pipeline",
+          "status": "Completed"
+        },
+        {
+          "name": "Cloud Migration",
+          "status": "In Progress"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "role": "Frontend Developer",
+      "skills": [
+        "TypeScript",
+        "Next.js",
+        "Tailwind CSS"
+      ],
+      "projects": [
+        {
+          "name": "Admin Dashboard",
+          "status": "Completed"
+        },
+        {
+          "name": "Analytics Portal",
+          "status": "In Progress"
+        }
+      ]
+    }
+  ]
+}
